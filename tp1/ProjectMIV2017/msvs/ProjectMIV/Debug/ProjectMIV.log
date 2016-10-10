@@ -1,0 +1,13 @@
+﻿  Simulator.cpp
+  RigidSphere.cpp
+  Note: including lib: glut32.lib
+  
+  Mesh.cpp
+  GUI.cpp
+  Note: including lib: glut32.lib
+  
+  main.cpp
+  Note: including lib: glut32.lib
+  
+  Génération de code en cours...
+  ProjectMIV.vcxproj -> D:\Git\MIV\tp1\ProjectMIV2017\bin\Debug\ProjectMIV.exe

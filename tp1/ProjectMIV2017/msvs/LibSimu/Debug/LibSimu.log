@@ -1,0 +1,23 @@
+﻿  Vector4.cpp
+  Vector3.cpp
+  Vector2.cpp
+  Quaternion.cpp
+  Plane.cpp
+  OMath.cpp
+  MyMath.cpp
+  Matrix4.cpp
+  Matrix3.cpp
+  Matrix.cpp
+  AxisAlignedBox.cpp
+  UniformGrid.cpp
+  StringExtension.cpp
+  Message.cpp
+  MeshContainer.cpp
+  glExtents.cpp
+  Note: including lib: glut32.lib
+  
+  Display.cpp
+  Note: including lib: glut32.lib
+  
+  Génération de code en cours...
+  LibSimu.vcxproj -> D:\Git\MIV\tp1\ProjectMIV2017\bin\Debug\LibSimu.lib
